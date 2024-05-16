@@ -5,9 +5,8 @@ including creating, retrieving, updating, and deleting pets.
 
 ## Requirements
 
-- PHP 8.0 or higher
+- PHP 8.2 or higher
 - Composer
-- Laravel 8 or higher
 - Docker
 
 ## Installation
